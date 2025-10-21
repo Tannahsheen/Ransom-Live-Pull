@@ -2,9 +2,9 @@ Pulls everyone that has been posted on ransomware.live in the United States in t
 
 This is pretty ugly, but it works for what I needed. Might help for somebody else too. 
 
-Git clone the repo 
+git clone https://github.com/Tannahsheen/Ransom-Live-Pull.git
 
-cd into newly created directory 
+cd Ransom-Live-Pull
 
 pip install requests python-dateutil beautifulsoup4
 
